@@ -4,7 +4,7 @@ CREATE TABLE cohort (
   start_date DATE,
   end_date DATE
 );
-  
+
 
 CREATE TABLE students (
   id SERIAL PRIMARY KEY NOT NULL,
