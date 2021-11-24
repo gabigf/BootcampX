@@ -5,7 +5,7 @@ CREATE TABLE assignments (
   day INTEGER,
   chapter INTEGER,
   duration INTEGER
-);
+)
 
 CREATE TABLE assignment_submissions (
   id SERIAL PRIMARY KEY NOT NULL,
